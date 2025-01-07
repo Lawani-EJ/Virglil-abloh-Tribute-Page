@@ -1,34 +1,94 @@
-# Steve Jobs Tribute Page 🍏
+# **Virgil Abloh Tribute Page**
 
-This project is a tribute page to honour the legacy of Steve Jobs, the visionary co-founder of Apple Inc.
+A visually captivating tribute page honoring the life and legacy of Virgil Abloh, a renowned American fashion designer and entrepreneur. This project is built using HTML and CSS and showcases his biography and an inspiring quote.
 
-## Description ℹ️
+---
 
-This tribute page includes a brief biography of Steve Jobs along with a memorable quote and an image.
+## **Table of Contents**
 
-## Technologies Used 💻
+- [Overview](#overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [How to Run the Project](#how-to-run-the-project)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
 
-- HTML5
-- CSS3
+---
 
-## Preview 📷
+## **Overview**
 
-![Steve Jobs Tribute Page Preview](./record.gif)
+This project is a static web page dedicated to Virgil Abloh. It provides insights into his life, accomplishments, and impact on the world of fashion. The page includes:
+- A header with his name and timeline.
+- A powerful quote that defines his philosophy.
+- A biography section detailing his achievements.
 
-## Setup Instructions 🛠️
+---
 
-1. Clone the repository.
-2. Open the `index.html` file in your web browser.
+## **Features**
 
-## Features ✨
+- **Responsive Design**: Optimized for different screen sizes.
+- **Minimalistic Layout**: Clean and easy-to-read sections.
+- **Tribute Quote**: Displays one of Virgil Abloh's most inspiring quotes.
+- **Image Integration**: Includes a picture of Virgil Abloh for better visual impact.
 
-- Responsive design for various screen sizes.
-- Styled with a simple yet elegant layout.
+---
 
-## Credits 🙌
+## **Technologies Used**
 
-- Image source: [Profoto](https://www.profoto.com)
-- Biography information: [Wikipedia](https://en.wikipedia.org/wiki/Steve_Jobs)
+- **HTML5**: For structuring the content.
+- **CSS3**: For styling and layout design.
+
+---
+
+## **Project Structure**
+
+```
+project-folder/
+│
+├── index.html           # Main HTML file
+├── styles.css           # CSS file for styling
+├── virgil.webp          # Image used in the tribute section
+└── README.md            # Project documentation
+```
+
+---
+
+## **How to Run the Project**
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Lawani-EJ/Virgil-Abloh-Tribute-Page.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd Virgil-Abloh-Tribute-Page
+   ```
+
+3. Open the `index.html` file in your browser:
+   - For Windows: Right-click on `index.html` > Open with > Your preferred browser.
+   - For macOS/Linux: Double-click `index.html`.
+
+---
+
+## **Screenshots**
+
+![image](https://github.com/user-attachments/assets/b3426d25-b3ea-40e3-bce9-e170fe6856e4)
 
 
-Made with ❤️ by [Elyon]
+---
+
+## **Contributing**
+
+Contributions are welcome! If you have suggestions or improvements, feel free to:
+1. Fork this repository.
+2. Create a new branch for your changes.
+3. Submit a pull request.
+
+---
+
+## **License**
+
+This project is open source and available under the [MIT License](./LICENSE).
